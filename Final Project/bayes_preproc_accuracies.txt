@@ -1,0 +1,78 @@
+Preprocessing Steps:
+- remove nans
+- remove alphanumeric chars
+- convert all letters to lowercase
+
+Results:
+- Accuracies about 2% higher for each m value with only 14s of preprocessing
+
+m = 50
+              precision    recall  f1-score   support
+
+          -1       0.83      0.85      0.84     11515
+           1       0.85      0.84      0.85     12093
+
+    accuracy                           0.84     23608
+   macro avg       0.84      0.84      0.84     23608
+weighted avg       0.84      0.84      0.84     23608
+
+m = 1000
+              precision    recall  f1-score   support
+
+          -1       0.87      0.87      0.87     11515
+           1       0.88      0.88      0.88     12093
+
+    accuracy                           0.88     23608
+   macro avg       0.88      0.88      0.88     23608
+weighted avg       0.88      0.88      0.88     23608
+
+m = 10000
+              precision    recall  f1-score   support
+
+          -1       0.89      0.88      0.89     11515
+           1       0.89      0.89      0.89     12093
+
+    accuracy                           0.89     23608
+   macro avg       0.89      0.89      0.89     23608
+weighted avg       0.89      0.89      0.89     23608
+
+m = 50000
+              precision    recall  f1-score   support
+
+          -1       0.90      0.91      0.90     11515
+           1       0.91      0.90      0.91     12093
+
+    accuracy                           0.91     23608
+   macro avg       0.91      0.91      0.91     23608
+weighted avg       0.91      0.91      0.91     23608
+
+m = 100000
+              precision    recall  f1-score   support
+
+          -1       0.90      0.92      0.91     11515
+           1       0.92      0.90      0.91     12093
+
+    accuracy                           0.91     23608
+   macro avg       0.91      0.91      0.91     23608
+weighted avg       0.91      0.91      0.91     23608
+
+m = 150000
+              precision    recall  f1-score   support
+
+          -1       0.90      0.92      0.91     11515
+           1       0.92      0.90      0.91     12093
+
+    accuracy                           0.91     23608
+   macro avg       0.91      0.91      0.91     23608
+weighted avg       0.91      0.91      0.91     23608
+
+m = 199000
+              precision    recall  f1-score   support
+
+          -1       0.90      0.93      0.91     11515
+           1       0.93      0.90      0.91     12093
+
+    accuracy                           0.91     23608
+   macro avg       0.91      0.91      0.91     23608
+weighted avg       0.91      0.91      0.91     23608
+

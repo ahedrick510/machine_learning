@@ -1,0 +1,351 @@
+m = 50 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.92      0.85      0.88     11515
+           1       0.87      0.93      0.90     12093
+
+    accuracy                           0.89     23608
+   macro avg       0.89      0.89      0.89     23608
+weighted avg       0.89      0.89      0.89     23608
+
+m = 1000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92     11515
+           1       0.92      0.92      0.92     12093
+
+    accuracy                           0.92     23608
+   macro avg       0.92      0.92      0.92     23608
+weighted avg       0.92      0.92      0.92     23608
+
+m = 10000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.92     11515
+           1       0.93      0.91      0.92     12093
+
+    accuracy                           0.92     23608
+   macro avg       0.92      0.92      0.92     23608
+weighted avg       0.92      0.92      0.92     23608
+
+m = 50000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90     11515
+           1       0.92      0.88      0.90     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.90      0.90      0.90     23608
+weighted avg       0.90      0.90      0.90     23608
+
+m = 100000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89     11515
+           1       0.91      0.87      0.89     12093
+
+    accuracy                           0.89     23608
+   macro avg       0.89      0.89      0.89     23608
+weighted avg       0.89      0.89      0.89     23608
+
+m = 150000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.87      0.92      0.90     11515
+           1       0.92      0.87      0.90     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.90      0.90      0.90     23608
+weighted avg       0.90      0.90      0.90     23608
+
+m = 199000 and num_trees = 10
+              precision    recall  f1-score   support
+
+           0       0.87      0.92      0.89     11515
+           1       0.92      0.87      0.89     12093
+
+    accuracy                           0.89     23608
+   macro avg       0.89      0.89      0.89     23608
+weighted avg       0.89      0.89      0.89     23608
+
+m = 50 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.95      0.84      0.89     11515
+           1       0.86      0.96      0.91     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.91      0.90      0.90     23608
+weighted avg       0.90      0.90      0.90     23608
+
+m = 1000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.95      0.92      0.94     11515
+           1       0.93      0.96      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 10000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94     11515
+           1       0.93      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 50000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     11515
+           1       0.93      0.94      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 100000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.93     11515
+           1       0.93      0.94      0.93     12093
+
+    accuracy                           0.93     23608
+   macro avg       0.93      0.93      0.93     23608
+weighted avg       0.93      0.93      0.93     23608
+
+m = 150000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.92      0.92      0.92     11515
+           1       0.93      0.93      0.93     12093
+
+    accuracy                           0.93     23608
+   macro avg       0.93      0.93      0.93     23608
+weighted avg       0.93      0.93      0.93     23608
+
+m = 199000 and num_trees = 50
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93     11515
+           1       0.93      0.93      0.93     12093
+
+    accuracy                           0.93     23608
+   macro avg       0.93      0.93      0.93     23608
+weighted avg       0.93      0.93      0.93     23608
+
+m = 50 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.95      0.84      0.89     11515
+           1       0.86      0.96      0.91     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.91      0.90      0.90     23608
+weighted avg       0.90      0.90      0.90     23608
+
+m = 1000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94     11515
+           1       0.93      0.96      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 10000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.93      0.96      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 50000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.94      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 100000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     11515
+           1       0.93      0.94      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 150000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     11515
+           1       0.93      0.94      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 199000 and num_trees = 100
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93     11515
+           1       0.93      0.94      0.93     12093
+
+    accuracy                           0.93     23608
+   macro avg       0.93      0.93      0.93     23608
+weighted avg       0.93      0.93      0.93     23608
+
+
+m = 50 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.96      0.83      0.89     11515
+           1       0.86      0.96      0.91     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.91      0.90      0.90     23608
+weighted avg       0.91      0.90      0.90     23608
+
+m = 1000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94     11515
+           1       0.93      0.97      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 10000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.94     11515
+           1       0.93      0.96      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.95      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 50000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.94      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 100000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.93      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 150000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94     11515
+           1       0.94      0.94      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 199000 and num_trees = 300
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93     11515
+           1       0.93      0.94      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 50 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.96      0.83      0.89     11515
+           1       0.86      0.96      0.91     12093
+
+    accuracy                           0.90     23608
+   macro avg       0.91      0.90      0.90     23608
+weighted avg       0.91      0.90      0.90     23608
+
+m = 1000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94     11515
+           1       0.93      0.97      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.95      0.94      0.94     23608
+weighted avg       0.95      0.94      0.94     23608
+
+m = 10000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.94     11515
+           1       0.93      0.96      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.95      0.94      0.94     23608
+weighted avg       0.95      0.94      0.94     23608
+
+m = 50000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.94      0.95      0.95     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 100000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94     11515
+           1       0.94      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 150000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94     11515
+           1       0.93      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
+m = 199000 and num_trees = 500
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94     11515
+           1       0.93      0.95      0.94     12093
+
+    accuracy                           0.94     23608
+   macro avg       0.94      0.94      0.94     23608
+weighted avg       0.94      0.94      0.94     23608
+
